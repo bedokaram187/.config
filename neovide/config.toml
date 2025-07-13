@@ -1,0 +1,17 @@
+
+frame = "none"
+maximized = true 
+mouse-cursor-icon = "arrow"
+idle = true 
+vsync = true 
+
+[font]
+normal = []
+size=14
+
+
+[box-drawing]
+mode = "font-glyph"
+
+[box-drawing.sizes]
+default = [2,4]
